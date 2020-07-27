@@ -1,0 +1,37 @@
+﻿<Page x:Name="page" x:Class="Sorteper.GamePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Sorteper"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="GamePage" >
+
+    <DockPanel x:Name="dockPanel" Background="Aqua"  >
+        <StackPanel x:Name="topBar" Height="175" Orientation="Horizontal" DockPanel.Dock="Top" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <StackPanel x:Name="computerInfo" Orientation="Vertical" Background="Gold" Width="130" Height="175"  VerticalAlignment="Bottom" HorizontalAlignment="Left">
+                <Label Content="Spiller"/>
+                <Label Content="Spil vundet"/>
+                <Label Content="Par"/>
+            </StackPanel>
+            <ScrollViewer Background="Brown" x:Name="svTop" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Width="660" Height="175" VerticalAlignment="Bottom"  >
+                <StackPanel x:Name="computerCards" VerticalAlignment="Bottom" Orientation="Horizontal">
+                </StackPanel>
+            </ScrollViewer>
+        </StackPanel>
+
+        <StackPanel Background="Beige" x:Name="bottomBar" Orientation="Horizontal" DockPanel.Dock="Bottom" HorizontalAlignment="Center" Height="175" VerticalAlignment="Bottom">
+            <StackPanel x:Name="playerInfo" Orientation="Vertical" Background="BlueViolet" Width="130" Height="175"  VerticalAlignment="Bottom" HorizontalAlignment="Left">
+                <Label Content="Spiller"/>
+                <Label Content="Spil vundet"/>
+                <Label Content="Par"/>
+            </StackPanel>
+            <ScrollViewer x:Name="svBottom" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"  Width="660" Height="175" VerticalAlignment="Bottom"  >
+                <StackPanel x:Name="playerCards" VerticalAlignment="Bottom" Orientation="Horizontal">
+                    
+                </StackPanel>
+            </ScrollViewer>
+        </StackPanel>
+    </DockPanel>
+</Page>
