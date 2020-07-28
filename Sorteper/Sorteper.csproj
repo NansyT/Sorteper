@@ -125,5 +125,8 @@
     <Resource Include="Cards\mouse.png" />
     <Resource Include="Cards\ostrich.png" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
