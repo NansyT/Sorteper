@@ -1,0 +1,8 @@
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\bin\Debug\netstandard2.0\SorteperLib.deps.json
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\bin\Debug\netstandard2.0\SorteperLib.dll
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\bin\Debug\netstandard2.0\SorteperLib.pdb
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\obj\Debug\netstandard2.0\SorteperLib.csprojAssemblyReference.cache
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\obj\Debug\netstandard2.0\SorteperLib.AssemblyInfoInputs.cache
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\obj\Debug\netstandard2.0\SorteperLib.AssemblyInfo.cs
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\obj\Debug\netstandard2.0\SorteperLib.dll
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\SorteperLib\obj\Debug\netstandard2.0\SorteperLib.pdb

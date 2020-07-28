@@ -35,3 +35,12 @@ C:\Users\nann8059\OneDrive - EFIF\Skole\Programmering\H2\Opgaver\repos\Sorteper\
 C:\Users\nann8059\OneDrive - EFIF\Skole\Programmering\H2\Opgaver\repos\Sorteper\Sorteper\obj\Debug\Sorteper.g.resources
 C:\Users\nann8059\OneDrive - EFIF\Skole\Programmering\H2\Opgaver\repos\Sorteper\Sorteper\obj\Debug\Sorteper.Properties.Resources.resources
 C:\Users\nann8059\OneDrive - EFIF\Skole\Programmering\H2\Opgaver\repos\Sorteper\Sorteper\obj\Debug\Sorteper.csproj.GenerateResource.cache
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\Sorteper.csprojAssemblyReference.cache
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\GamePage.g.cs
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\MainWindow.g.cs
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\StartPage.g.cs
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\App.g.cs
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\Sorteper_MarkupCompile.cache
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\Sorteper_MarkupCompile.lref
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\Sorteper.exe
+C:\Users\nann8059\Documents\GitHub\Dumpster\Sorteper\Sorteper\obj\Debug\Sorteper.pdb
