@@ -102,7 +102,7 @@ namespace Sorteper
             int index = gamePage.computerCards.Children.IndexOf((Image)sender);
             Debug.WriteLine(index);
             human.Draw(index, computer);
-
+            
         }
 
         private void Exitbtn_Click(object sender, RoutedEventArgs e)

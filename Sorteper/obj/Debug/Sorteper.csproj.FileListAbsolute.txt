@@ -51,3 +51,14 @@ C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\StartPage.g.cs
 C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\App.g.cs
 C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper_MarkupCompile.cache
 C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper_MarkupCompile.lref
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\bin\Debug\Sorteper.exe.config
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\bin\Debug\Sorteper.exe
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\bin\Debug\Sorteper.pdb
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\GamePage.baml
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\MainWindow.baml
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\StartPage.baml
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper.g.resources
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper.Properties.Resources.resources
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper.csproj.GenerateResource.cache
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper.exe
+C:\Users\nann8059\Documents\GitHub\Sorteper\Sorteper\obj\Debug\Sorteper.pdb

@@ -66,7 +66,6 @@ namespace SorteperGame
 
                 if (choice > (computer.Hand.Count - 1))
                 {
-                    Console.WriteLine("That number is too high");
                     return false;
                 }
                 else
@@ -76,7 +75,7 @@ namespace SorteperGame
                 }
 
             }
-        } //+ Remove WriteLines
+        }
 
         public bool CheckForWin()
         {
